@@ -2,7 +2,6 @@
 VRFlightSim For Android
 
 **recommended version**: 2019.4.4f1
-**suitable version**: 2019.4.x+
 
 # open project on unity
 - download project from Github
